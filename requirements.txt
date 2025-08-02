@@ -1,0 +1,6 @@
+langchain-core
+langchain-groq
+load-dotenv
+langchain-community
+langchain_google_community
+langchain-google-community[gmail]

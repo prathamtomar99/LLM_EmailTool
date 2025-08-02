@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment and dependencies
+.env
+.venv/
+env/
+venv/
+Pipfile.lock
+poetry.lock
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Logs
+*.log
+
+# Credentials or secrets
+tokens.json
